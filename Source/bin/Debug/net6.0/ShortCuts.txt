@@ -1,0 +1,2 @@
+Open object browser: Ctrl + Alt + J
+Build a Solution: Ctrl + Shift + B
